@@ -1,12 +1,12 @@
 {
   "name": "tutorial-md",
   "version": "2.1.0",
-  "description": "Modular WhatsApp Bot with Telegram Pairing - By Minato",
+  "description": "Modular WhatsApp Bot with Telegram Pairing - By Young",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Minato Namikaze",
+  "author": "Wilson Young",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
